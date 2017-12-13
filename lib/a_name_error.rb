@@ -1,3 +1,3 @@
 "hello world"
 
-String.new("hello world")
+hello_world
